@@ -1,8 +1,12 @@
 ## Hi there I'm Bhoopendra Singh👋
+![icons8-javascript-48](https://github.com/user-attachments/assets/cca76161-90e1-4cb7-ada3-bd17f7555739)
 ![icons8-nodejs-48](https://github.com/user-attachments/assets/9eba7a32-b459-4d4c-bf23-9cd8ee5c586f)
 
+![icons8-react-16](https://github.com/user-attachments/assets/c0ac2b5c-895f-4215-a15b-d91959ea2780)
+![icons8-css-48](https://github.com/user-attachments/assets/09e0947b-93bd-4d18-8e69-707d931cc9bc)
 
-<!--
+<!--![icons8-html-48](https://github.com/user-attachments/assets/bd724464-086d-4488-9d88-d6ff1201a6e4)
+
 **bhoopendrasingh2306/bhoopendrasingh2306** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
