@@ -1,5 +1,5 @@
 ## Hi there I'm Bhoopendra Singh👋
-[icons8-nodejs-48](https://github.com/user-attachments/assets/9eba7a32-b459-4d4c-bf23-9cd8ee5c586f)
+![icons8-nodejs-48](https://github.com/user-attachments/assets/9eba7a32-b459-4d4c-bf23-9cd8ee5c586f)
 
 
 <!--
